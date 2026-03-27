@@ -1,0 +1,19 @@
+{
+  "name": "soundheaven",
+  "version": "1.0.0",
+  "description": "The ultimate unified music experience with a built-in support widget.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "music",
+    "support",
+    "sqlite",
+    "node"
+  ],
+  "author": "Roque Ricco Desouza",
+  "license": "MIT"
+}
